@@ -1,1 +1,1 @@
-# couresera
+# Salomon Albert Dieme
