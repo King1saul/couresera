@@ -5,7 +5,7 @@ list-style-type:none;
 }
 
 nav li{
-	display:inline;
+	display:inline-block;
 	width:1000px;
 	height:40px;
 	margin:0px;
